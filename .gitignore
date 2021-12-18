@@ -1,2 +1,5 @@
 .env
 *.yaml
+*.pyc
+./build/*
+./scripts/__pycache__/*
